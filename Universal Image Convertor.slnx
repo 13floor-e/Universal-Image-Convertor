@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Universal Image Convertor/Universal Image Convertor.vcxproj" />
+  <Project Path="Universal Image Convertor/Universal Image Convertor.vcxproj" Id="8c46981f-6730-42c9-bd03-16d355b175e8" />
 </Solution>
